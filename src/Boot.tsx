@@ -806,7 +806,7 @@ function setupTNBootsplash() {
         "Skibidi.<br>Zeke";
     TNMark.onclick = () => {
         anura.apps["anura.browser"].open([
-            "https://discord.com/invite/unblock/login",
+            "OMEGA",
         ]);
     };
     document.body.appendChild(TNMark);
