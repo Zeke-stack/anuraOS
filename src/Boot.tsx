@@ -803,7 +803,7 @@ function setupTNBootsplash() {
         "position: absolute; bottom: 70px; right: 10px",
     );
     TNMark.innerHTML =
-        "Instance hosted by Titanium Network.<br>More mirrors at discord.gg/unblock";
+        "Skibidi.<br>Zeke";
     TNMark.onclick = () => {
         anura.apps["anura.browser"].open([
             "https://discord.com/invite/unblock/login",
